@@ -7,16 +7,26 @@
     <div class="details">
       <h3>{{recipe.title}}</h3>
       <div class="detail owner">
-        <span>Reference:</span><a href={{recipe.reference}}>{{recipe.reference}}</a>
+        <span>Reference:</span>
+        <span><a href={{recipe.reference}}>{{recipe.reference}}</a></span>
       </div>
       <div class="detail cooking_summary">
-        <span>Cooking Summary:</span> {{recipe.cooking_summary}}
+        <span>Cooking Summary:</span>
+        <span>{{recipe.cooking_summary}}</span>
       </div>
       <div class="detail cateogry">
-        <span>Category:</span> {{recipe.category}}
+        <span>Category:</span>
+        <span>{{recipe.category}}</span>
       </div>
       <div class="detail ingredients">
-        <span>Ingredientss:</span> {{recipe.ingredients}}
+        <span>Ingredients:</span>
+        <span>
+          <ul>
+          {{#each recipe.ingredients as |ingredient|}}
+            <li>{{ingredient.item}}</li>
+          {{/each}}
+          </ul>
+        </span>
       </div>
     </div>
   </article>

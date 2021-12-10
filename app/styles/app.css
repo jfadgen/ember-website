@@ -1,0 +1,46 @@
+.menu {
+  padding: 1rem;
+  background-color: rgb(158, 226, 240);
+}
+
+.menu a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.menu h1 {
+  display: inline-block;
+  padding: 0.5rem 2rem;
+  margin: 0;
+}
+
+.menu .links {
+  display: inline-block;
+}
+
+.menu .links a {
+  padding: 0.5rem 1rem;
+}
+
+.body {
+  padding: 1rem;
+}
+
+.listing .detail {
+  display: flex;
+}
+
+.listing .detail > span {
+  padding: 6px 12px 6px 0;
+}
+
+.listing .detail > span:first-child {
+  flex: 0 0 10rem;
+  width: 10rem;
+  display: inline-block;
+}
+
+.listing .detail > span:last-child {
+  display: flex;
+  flex: auto;
+}
