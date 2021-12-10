@@ -1,0 +1,27 @@
+<article class="recipe">
+  <div class="details">
+    <h3 class="title">{{title}}</h3>
+    <div class="detail reference">
+      <span>Reference:</span>
+      <span><a href={{reference}}>{{reference}}</a></span>
+    </div>
+    <div class="detail cooking_summary">
+      <span>Cooking Summary:</span>
+      <span>{{cooking_summary}}</span>
+    </div>
+    <div class="detail category">
+      <span>Category:</span>
+      <span>{{category}}</span>
+    </div>
+    <div class="detail ingredients">
+      <span>Ingredients:</span>
+      <span>
+        <ul>
+          {{#each ingredients as |ingredient|}}
+            <li>{{ingredient.item}}</li>
+          {{/each}}
+        </ul>
+      </span>
+    </div>
+  </div>
+</article>

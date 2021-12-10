@@ -3,31 +3,12 @@
 </div>
 
 {{#each this.model as |recipe|}}
-  <article class="listing">
-    <div class="details">
-      <h3>{{recipe.title}}</h3>
-      <div class="detail owner">
-        <span>Reference:</span>
-        <span><a href={{recipe.reference}}>{{recipe.reference}}</a></span>
-      </div>
-      <div class="detail cooking_summary">
-        <span>Cooking Summary:</span>
-        <span>{{recipe.cooking_summary}}</span>
-      </div>
-      <div class="detail cateogry">
-        <span>Category:</span>
-        <span>{{recipe.category}}</span>
-      </div>
-      <div class="detail ingredients">
-        <span>Ingredients:</span>
-        <span>
-          <ul>
-          {{#each recipe.ingredients as |ingredient|}}
-            <li>{{ingredient.item}}</li>
-          {{/each}}
-          </ul>
-        </span>
-      </div>
-    </div>
-  </article>
+  <Recipe
+    @recipe={{recipe}}
+    @title={{recipe.title}}
+    @reference={{recipe.reference}}
+    @cooking_summary={{recipe.cooking_summary}}
+    @category={{recipe.category}}
+    @ingredients={{recipe.ingredients}}
+  />
 {{/each}}
