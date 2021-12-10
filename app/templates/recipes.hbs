@@ -1,3 +1,23 @@
 <div class="jumbo">
   <p>I'll add a list of frequently used recipes here later.</p>
 </div>
+
+{{#each this.model as |recipe|}}
+  <article class="listing">
+    <div class="details">
+      <h3>{{recipe.title}}</h3>
+      <div class="detail owner">
+        <span>Reference:</span><a href={{recipe.reference}}
+      </div>
+      <div class="detail cooking_summary">
+        <span>Cooking Summary:</span> {{recipe.cooking_summary}}
+      </div>
+      <div class="detail cateogry">
+        <span>Category:</span> {{recipe.category}}
+      </div>
+      <div class="detail ingredients">
+        <span>Ingredientss:</span> {{recipe.ingredients}}
+      </div>
+    </div>
+  </article>
+{{/each}}
