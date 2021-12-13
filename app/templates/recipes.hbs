@@ -1,5 +1,6 @@
 {{#each this.model as |recipe|}}
   <Recipe
+    @recipe={{recipe}}
     @title={{recipe.title}}
     @reference={{recipe.reference}}
     @cooking_summary={{recipe.cooking_summary}}
