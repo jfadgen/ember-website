@@ -1,10 +1,5 @@
-<div class="jumbo">
-  <p>I'll add a list of frequently used recipes here later.</p>
-</div>
-
 {{#each this.model as |recipe|}}
   <Recipe
-    @recipe={{recipe}}
     @title={{recipe.title}}
     @reference={{recipe.reference}}
     @cooking_summary={{recipe.cooking_summary}}

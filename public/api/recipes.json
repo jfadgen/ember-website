@@ -1,0 +1,318 @@
+[
+  {
+     "id": "ginger_cookies",
+     "title": "Cat's Ginger Cookies",
+     "reference": "https://www.ricardocuisine.com/en/recipes/4116-molasses-cookies",
+     "cooking_summary": "350˚F for 15 minutes",
+     "ingredients": [
+        {
+           "item": "2 1/2 cups (625 ml) unbleached all-purpose flour"
+        },
+        {
+           "item": "1 teaspoon (5 ml) baking soda"
+        },
+        {
+           "item": "1 teaspoon (5 ml) baking powder"
+        },
+        {
+           "item": "1/2 teaspoon (2.5 ml) ground cinnamon"
+        },
+        {
+           "item": "1/2 teaspoon (2.5 ml) ground ginger"
+        },
+        {
+           "item": "Pinch of ground cloves"
+        },
+        {
+           "item": "Pinch of salt"
+        },
+        {
+           "item": "1/2 cup (125 ml) unsalted butter, softened"
+        },
+        {
+           "item": "3/4 cup (180 ml) brown sugar"
+        },
+        {
+           "item": "1/2 cup (125 ml) molasses"
+        },
+        {
+           "item": "1 egg"
+        },
+        {
+           "item": "2 tablespoons (30 ml) milk"
+        }
+     ]
+  },
+  {
+     "id": "agave_chocolate_chip_cookies",
+     "title": "Agave Chocolate Chip Cookies",
+     "reference": "https://www.justapinch.com/recipes/dessert/cookies/agave-chocolate-chip-cookies.html",
+     "cooking_summary": "350˚F for 12 minutes",
+     "ingredients": [
+        {
+           "item": "1/3 cup unsalted butter, softenend"
+        },
+        {
+           "item": "3/4 cup light agave nectar"
+        },
+        {
+           "item": "1 large egg"
+        },
+        {
+           "item": "1 Tbsp vanilla extract"
+        },
+        {
+           "item": "1 1/2 c all purpose flour"
+        },
+        {
+           "item": "3/4 c oat flour (or oat bran)"
+        },
+        {
+           "item": "1/2 tsp baking soda"
+        },
+        {
+           "item": "1/2 tsp salt"
+        },
+        {
+           "item": "1/2 tsp ground cinnamon"
+        },
+        {
+           "item": "1 cup semi-sweet chocolate chips"
+        }
+     ]
+  },
+  {
+     "id": "vegan_chili",
+     "title": "Vegan Chili",
+     "reference": "https://cookieandkate.com/vegetarian-chili-recipe/",
+     "cooking_summary": "Large Stop pot. Saute cut onions, garlic, celery, and carrots before adding beans, tomatoes, and broth.",
+     "ingredients": [
+        {
+           "item": "First"
+        },
+        {
+           "item": "2 tablespoons extra-virgin olive oil"
+        },
+        {
+           "item": "1 medium red onion, chopped"
+        },
+        {
+           "item": "4 cloves garlic, pressed or minced"
+        },
+        {
+           "item": "2 medium carrots, chopped"
+        },
+        {
+           "item": "2 ribs celery, chopped"
+        },
+        {
+           "item": "½ teaspoon salt"
+        },
+        {
+           "item": "2 tablespoons chili powder"
+        },
+        {
+           "item": "2 teaspoons cumin"
+        },
+        {
+           "item": "1 ½ teaspoons paprika"
+        },
+        {
+           "item": "1 teaspoon oregano"
+        },
+        {
+           "item": "1 large can (28 ounces) or 2 small cans (15 ounces each) diced tomatoes**, with their juices"
+        },
+        {
+           "item": "2 cans (15 ounces each) black beans, rinsed and drained"
+        },
+        {
+           "item": "1 can (15 ounces) pinto beans, rinsed and drained"
+        },
+        {
+           "item": "2 cups vegetable broth or water"
+        },
+        {
+           "item": "1 bay leaf"
+        },
+        {
+           "item": "2 tablespoons chopped fresh cilantro, plus more for garnishing"
+        },
+        {
+           "item": "1 to 2 teaspoons sherry vinegar or red wine vinegar or lime juice, to taste"
+        },
+        {
+           "item": "Garnishes - chopped cilantro, sliced avocado, tortilla chips, sour cream or crème fraîche, grated cheddar cheese, etc."
+        }
+     ]
+  },
+  {
+     "id": "sweet_cornbread",
+     "title": "Sweet Cornbread",
+     "reference": "https://www.food.com/recipe/sweet-cornbread-116185",
+     "cooking_summary": "350˚F for 45 minutes",
+     "ingredients": [
+        {
+           "item": "1⁄2 cup cornmeal"
+        },
+        {
+           "item": "1 1⁄2 cups flour"
+        },
+        {
+           "item": "2⁄3 cup sugar"
+        },
+        {
+           "item": "1 tablespoon baking powder"
+        },
+        {
+           "item": "1⁄2 teaspoon salt"
+        },
+        {
+           "item": "1⁄3 cup oil"
+        },
+        {
+           "item": "3 tablespoons melted butter"
+        },
+        {
+           "item": "1 tablespoon honey"
+        },
+        {
+           "item": "2 eggs, beaten"
+        },
+        {
+           "item": "1 1⁄4 cups milk"
+        }
+     ]
+  },
+  {
+     "id": "pie_crust",
+     "title": "Pie Crust",
+     "reference": null,
+     "cooking_summary": "350˚F for 12 minutes",
+     "ingredients": [
+        {
+           "item": "2 1/2 cup Blanched almond flour"
+        },
+        {
+           "item": "1/3 cup sweetener (agave or sugar)"
+        },
+        {
+           "item": "1/4 tsp sea salt"
+        },
+        {
+           "item": "1/4 cup butter"
+        },
+        {
+           "item": "1 large Egg"
+        },
+        {
+           "item": "1/2 tsp Vanilla extract"
+        }
+     ]
+  },
+  {
+     "id": "raisin_custard_pie",
+     "title": "Raisin Custard Pie",
+     "reference": "https://www.thriftyfun.com/tf84959599.tip.html",
+     "cooking_summary": "Stir in Medium stove-pot. Bake in pie crust 10 minutes at 350.",
+     "ingredients": [
+        {
+           "item": "1/2 cup sugar"
+        },
+        {
+           "item": "3 Tbsp. cornstarch"
+        },
+        {
+           "item": "2 cups milk"
+        },
+        {
+           "item": "3 eggs"
+        },
+        {
+           "item": "1 cup raisins"
+        },
+        {
+           "item": "2 tsp. lemon juice - optional"
+        },
+        {
+           "item": "1 pastry shell (9 inches), baked"
+        }
+     ]
+  },
+  {
+     "id": "pumpkin_almond_chocolate_chip_cookies",
+     "title": "Pumpkin Almond Chocolate Chip Cookies",
+     "reference": "http://thehealthyfamilyandhome.com/grain-free-vegan-pumpkin-chocolate-chip-cookies/",
+     "cooking_summary": "350˚F for 15 minutes",
+     "ingredients": [
+        {
+           "item": "2 1/2 cups almond flour"
+        },
+        {
+           "item": "1/2 cup pumpkin puree"
+        },
+        {
+           "item": "2 tablespoons coconut oil (melted/liquid)"
+        },
+        {
+           "item": "1/4 cup maple syrup (or sweetener of your choice)"
+        },
+        {
+           "item": "1/2 teaspoon baking soda"
+        },
+        {
+           "item": "1/4 teaspoon salt"
+        },
+        {
+           "item": "1 teaspoon cinnamon powder"
+        },
+        {
+           "item": "1 teaspoon pumpkin spice (cinnamon, nutmeg, ginger, cloves)"
+        },
+        {
+           "item": "1 teaspoon vanilla extract"
+        },
+        {
+           "item": "1 cup chocolate chips"
+        }
+     ]
+  },
+  {
+     "id": "banana_blueberry_bread",
+     "title": "Banana Blueberry Bread",
+     "reference": "Medical Medium via Instagram",
+     "cooking_summary": "350˚F for 40 minutes",
+     "ingredients": [
+        {
+           "item": "3 ripe bananas"
+        },
+        {
+           "item": "1/4 cup maple syrup"
+        },
+        {
+           "item": "1/4 cup coconut sugar"
+        },
+        {
+           "item": "1 tsp alcohol-free vanilla extract"
+        },
+        {
+           "item": "1/2 cup unsweetened almond milk"
+        },
+        {
+           "item": "2 cups gluten-free oat flour"
+        },
+        {
+           "item": "1/2 tsp sea salt"
+        },
+        {
+           "item": "1 tsp baking powder"
+        },
+        {
+           "item": "1/2 tsp baking soda"
+        },
+        {
+           "item": "1/2 cup frozen wild blueberries"
+        }
+     ]
+  }
+]
